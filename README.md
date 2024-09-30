@@ -23,7 +23,6 @@ Para este post estaremos usando las siguientes máquinas(Todas son Debian):
 
     IP: 192.168.20.20
     
-![esquema de redes](img/red.jpeg)
 
 ### Cliente
 
