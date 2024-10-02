@@ -10,6 +10,7 @@ Para este post estaremos usando las siguientes máquinas(Todas son Debian):
     CLiente  –> Mi equipo de atacante
 
     IP: 192.168.10.10
+    Red: 192.168.10.0
 
     Relay –> Actuará como Router
 
@@ -22,6 +23,8 @@ Para este post estaremos usando las siguientes máquinas(Todas son Debian):
     –> Servidor 
 
     IP: 192.168.20.20
+     Red: 192.168.20.0
+
     
 
 ### Cliente
