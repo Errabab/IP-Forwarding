@@ -23,7 +23,7 @@ Para este post estaremos usando las siguientes máquinas(Todas son Debian):
     –> Servidor 
 
     IP: 192.168.20.20
-     Red: 192.168.20.0
+    Red: 192.168.20.0
 
     
 
